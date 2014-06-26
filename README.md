@@ -73,7 +73,9 @@ log_crossed_opinions.txt:
 
 * files with opinions with multiple expressions, holders or targets
 * need to be revised if the holders, expressions and targets should not be in
-  the span of one single opinion id
+  the span of one single opinion id.
+
+Example:
 
     /*****EXAMPLE***************************************************/
     /* bad and good girls and boys -> one single opinionID *********/
